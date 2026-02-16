@@ -1,0 +1,4 @@
+# Ignorar pastas de documentação ou relatórios na contagem de linguagem
+doc/* linguist-documentation
+target/* linguist-vendored
+*.html linguist-detectable=false
